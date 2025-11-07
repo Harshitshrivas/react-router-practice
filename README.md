@@ -18,7 +18,7 @@ A simple React page created while learning **React Router**, **Nested Routes**, 
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/react-router-practice.git
+git clone https://github.com/Harshitshrivas/react-router-practice.git
 ```
 ```bash
 # 2️⃣ Navigate into the folder
